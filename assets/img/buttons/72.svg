@@ -1,1 +1,18 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="309.85174" height="66" viewBox="0,0,309.85174,66"><g transform="translate(-84.51457,-147)"><g stroke-miterlimit="10"><path d="M85.88379,212.75v-65.5h308.23253v65.5z" fill="#ffffff" stroke="#000000" stroke-width="0.5"/><text transform="translate(84.99314,191.43743) scale(0.95712,0.94063)" font-size="40" xml:space="preserve" fill="#000000" stroke="none" stroke-width="1" font-family="Sans Serif" font-weight="normal" text-anchor="start"><tspan x="0" dy="0">bicicletta</tspan></text><text transform="translate(260.67483,183.66126) scale(0.8854,0.5)" font-size="40" xml:space="preserve" fill="#000000" stroke="none" stroke-width="1" font-family="Sans Serif" font-weight="normal" text-anchor="start"><tspan x="0" dy="0">marcus</tspan></text></g></g></svg><!--rotationCenter:155.4854259201948:32.99999859252887-->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 309.9 66" style="enable-background:new 0 0 309.9 66;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:37.6252px;}
+	.st3{font-size:20px;}
+</style>
+<g transform="translate(-84.51457,-147)">
+	<g>
+		<path class="st0" d="M85.9,212.8v-65.5h308.2v65.5H85.9z"/>
+		<text transform="matrix(1.0175 0 0 1 84.9936 191.437)" class="st1 st2">bicicletta</text>
+		<text transform="matrix(1.7708 0 0 1 260.6747 183.6611)" class="st1 st3">marcus</text>
+	</g>
+</g>
+</svg>

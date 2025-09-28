@@ -1,1 +1,16 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="66.01682" viewBox="0,0,138,66.01682"><g transform="translate(-171,-146.98318)"><g stroke-miterlimit="10"><path d="M171.25,212.75v-65.5h137.5v65.5z" fill="#ffffff" stroke="#000000" stroke-width="0.5"/><text transform="translate(206.67001,192.14608) scale(1.05275,1.05275)" font-size="40" xml:space="preserve" fill="#000000" stroke="none" stroke-width="1" font-family="Sans Serif" font-weight="normal" text-anchor="start"><tspan x="0" dy="0">VAI</tspan></text></g></g></svg><!--rotationCenter:69:33.016819619471846-->
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 138 66" style="enable-background:new 0 0 138 66;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{font-family:'MyriadPro-Regular';}
+	.st2{font-size:42.11px;}
+</style>
+<g transform="translate(-171,-146.98318)">
+	<g>
+		<path class="st0" d="M171.2,212.8v-65.5h137.5v65.5H171.2z"/>
+		<text transform="matrix(1 0 0 1 206.6699 192.1463)" class="st1 st2">VAI</text>
+	</g>
+</g>
+</svg>
