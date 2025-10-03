@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dvdstyler format="4" outputDir="C:\Users\Claudio\Desktop\dvd\" name="DVD" videoFormat="2" audioFormat="3" aspectRatio="2">
+  <!--************** VMGM **************-->
+  <vmgm>
+    <fpc>jump title 1;</fpc>
+    <menus>
+      <video format="pal" aspect="16:9" widescreen="nopanscan"/>
+      <audio lang="IT"/>
+      <subpicture lang="IT"/>
+      <!--************** MENU 1 **************-->
+      <pgc entry="title">
+        <vob>
+          <menu videoFormat="PAL" aspectRatio="2" rememberLastButton="-1">
+            <svg width="720" height="405">
+              <rect width="720" height="405" id="backgroundColour" style="fill:#000000;"/>
+              <video width="720" height="405" preserveAspectRatio="none" id="background" xlink:href="assets\vids\title.mp4"/>
+              <defs id="defs"/>
+              <g id="objects"/>
+              <g id="buttons"/>
+            </svg>
+          </menu>
+        </vob>
+        <pre>if (g6==0) jump title 1;</pre>
+        <post>jump cell 1;</post>
+      </pgc>
+    </menus>
+  </vmgm>
+  <!--************** TITLESET 1 **************-->
+  <titleset>
+    <menus>
+      <video format="pal" aspect="16:9" widescreen="nopanscan"/>
+      <audio lang="IT"/>
+    </menus>
+    <titles>
+      <video format="pal" aspect="16:9" widescreen="nopanscan"/>
+      <audio lang="IT"/>
+      <!--************** TITLE 1 **************-->
+      <pgc>
+        <vob file="assets\vids\warning.mp4" chapters="0:00">
+          <video format="2" keepAspect="0"/>
+          <audio format="3"/>
+        </vob>
+        <post>g6=1; call vmgm menu 1;</post>
+      </pgc>
+    </titles>
+  </titleset>
+</dvdstyler>
